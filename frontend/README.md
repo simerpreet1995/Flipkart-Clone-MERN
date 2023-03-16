@@ -9,7 +9,7 @@
 
 
  ### Search.jsx
- # In Search.jsx we have creaed input search base with search icon
+ # In Search.jsx we have created input search base with search icon
  ### `when we import search icon it was invisible to make it visible give a color and display flex to its parent components`
 
 
